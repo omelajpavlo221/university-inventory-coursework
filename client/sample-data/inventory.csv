@@ -1,0 +1,4 @@
+inv_number;name;category;available_qty;criticality_score
+INV-2001;Маршрутизатор MikroTik RB4011;Мережеве обладнання;3;85.0
+INV-2002;Багатофункціональний пристрій Canon i-SENSYS;Оргтехніка;4;50.0
+INV-2003;Інтерактивна панель Samsung Flip 2;Мультимедіа;1;90.0

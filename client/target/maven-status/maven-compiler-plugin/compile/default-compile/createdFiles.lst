@@ -1,0 +1,8 @@
+ua\edu\nupp\kpp\client\MainApp.class
+ua\edu\nupp\kpp\client\TransferRecord.class
+ua\edu\nupp\kpp\client\RequestState.class
+ua\edu\nupp\kpp\client\Asset.class
+ua\edu\nupp\kpp\client\HttpInventoryClient.class
+ua\edu\nupp\kpp\client\AppUser.class
+ua\edu\nupp\kpp\client\ImportInventoryTask.class
+ua\edu\nupp\kpp\client\IssueRequest.class
